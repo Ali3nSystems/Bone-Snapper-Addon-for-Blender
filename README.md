@@ -1,1 +1,1 @@
-# Bone-Snapper-for-Blender
+# Bone Snapper Addon for Blender
